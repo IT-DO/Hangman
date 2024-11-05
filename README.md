@@ -1,22 +1,21 @@
-<h1>Hangman</h1>
-<p align ="center">Hangman is a simple Console Game on JavaSE in procedure style.</p>
-Первый проект из списка Pet проектов от ментора Сергея Жукова. 
-Я написал его с целью познакомиться с процедурным стилем кода, изучить Java SE и найти впоследствии работу Java Backend разработчиком.
+<h1 align ="center">Виселица</h1>
+<p>Виселица - это простая консольная игра написанная на Java </p>
+<p>Первый проект из списка Pet проектов от ментора Сергея Жукова. 
+Я написал его с целью познакомиться с процедурным стилем кода, изучить Java SE и найти впоследствии работу Java Backend разработчиком.<br>Словарь игры включает в себя более 20 000 слов от 4 до 8 символов<br></p>
 
-В проекте предусмотрено игровое Меню и простая логика взаимодействия с пользователем.
-<div align ="center"><img src ="resources\main_menu_screenshot.png"/></div>
-
-Как установить продукт?
-1. Склонируйте репозиторий в вашу Intelliji Idea
-2. Нажмите на кнопку "Run" <img src = "resources/buildrun.png">
-
-Инструкции по взаимодействию с иннтерфейсом вы получите в ходе игры, после ее запуска.
-
-Дальнейшее развитие проекта не предусмотрено, он написан в ознакомительных целях.
-
-Разработчики: IT-DO aka Anton K
+<p align ="center">В проекте предусмотрено игровое Меню и простая логика взаимодействия с пользователем.</p>
+<div align ="left"><img src ="resources\main_menu_screenshot.png" width = "400px"/></div>
 
 
 
-Clone repository  '''   git clone https://github.com/IT-DO/Hangman.git   '''
-Localization: RU
+<div align ="center"><p><br><br>Как установить продукт?</p></div>
+
+1. Клонируйте репозиторий в вашу Intelliji Idea      ```git clone https://github.com/IT-DO/Hangman.git```    
+2. Нажмите на кнопку "Run" <img src = "resources/buildrun.png" align = "center">
+
+
+
+<p align="center"><br>Дальнейшее развитие проекта не предусмотрено, он написан в ознакомительных целях.</p>
+
+<p align="right"><br><br>Разработано: IT-DO aka Anton K <br>
+Язык: RU </p>
